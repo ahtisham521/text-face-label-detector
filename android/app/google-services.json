@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795122097521",
+    "project_id": "imagereader-91cca",
+    "storage_bucket": "imagereader-91cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795122097521:android:73206c71eb122294e5ead0",
+        "android_client_info": {
+          "package_name": "com.example.imageReader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795122097521-ruff6fnl1nhosn7nna2m0484fnjlbit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0_Qrq513w_fbToVmoOsBFuNLN_cT9g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795122097521-ruff6fnl1nhosn7nna2m0484fnjlbit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
